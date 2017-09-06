@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="480"
+   height="390"
+   viewBox="0 0 480 390.00001"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="AVISO.svg"
+   inkscape:export-filename="/home/macramole/Desktop/linux_raspi/aviso.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="260.85726"
+     inkscape:cy="164.50985"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1916"
+     inkscape:window-height="1047"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-459.94845)">
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect4422"
+       width="635"
+       height="448.57144"
+       x="-19.285715"
+       y="449.23416" />
+    <rect
+       y="785.15399"
+       x="0"
+       height="26.610598"
+       width="480"
+       id="rect4217"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#f5bd0c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#f5bd0c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect4147"
+       width="480"
+       height="84.852814"
+       x="0"
+       y="475.46353" />
+    <image
+       sodipodi:absref="/home/macramole/Desktop/linux_raspi/presentaciones/imagenes/Tux.png"
+       xlink:href="presentaciones/imagenes/Tux.png"
+       style="opacity:0.4"
+       width="87.667068"
+       height="103.87721"
+       preserveAspectRatio="none"
+       id="image4321"
+       x="300.90961"
+       y="467.66357" />
+    <image
+       sodipodi:absref="/home/macramole/Desktop/linux_raspi/presentaciones/imagenes/raspberry-pi-logo.png"
+       xlink:href="presentaciones/imagenes/raspberry-pi-logo.png"
+       style="opacity:0.4"
+       width="80.470078"
+       height="101.09937"
+       preserveAspectRatio="none"
+       id="image4338"
+       x="392.57666"
+       y="469.09213" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:36.83124542px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="16.296114"
+       y="541.75659"
+       id="text4149"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4151"
+         x="16.296114"
+         y="541.75659"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';fill:#ffffff">GNU/Linux -&gt; Raspberry Pi</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:16.89612961px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="18.558016"
+       y="502.04251"
+       id="text4153"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4155"
+         x="18.558016"
+         y="502.04251"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Light';fill:#ffffff">Taller Extracurricular</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4157"
+       y="758.8775"
+       x="240.25012"
+       style="font-style:normal;font-weight:normal;font-size:13.04080963px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';text-align:center;text-anchor:middle"
+         y="758.8775"
+         x="240.25012"
+         id="tspan4159"
+         sodipodi:role="line">Jueves de 15:00 a 18:00</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Light';text-align:center;text-anchor:middle"
+         y="775.17853"
+         x="240.25012"
+         sodipodi:role="line"
+         id="tspan4163">12 Encuentros</tspan></text>
+    <g
+       style="color:#000000;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="text4177" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-26.263962"
+       y="874.57532"
+       id="text4182"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4184"
+         x="-26.263962"
+         y="874.57532" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:14.60430336px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="89.473671"
+       y="804.0567"
+       id="text4190"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan4194"
+         sodipodi:role="line"
+         x="89.473671"
+         y="804.0567"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Light';fill:#ffffff">Taller de AAEE, Valentín Gómez 4752, Caseros.</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4239"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(0,452.36216)"><flowRegion
+         id="flowRegion4241"><rect
+           id="rect4243"
+           width="330.31989"
+           height="278.80209"
+           x="-231.32494"
+           y="298.97455" /></flowRegion><flowPara
+         id="flowPara4245"></flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4247"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(142.73609,163.35701)"><flowRegion
+         id="flowRegion4249"><rect
+           id="rect4251"
+           width="477.80215"
+           height="274.76151"
+           x="-128.28937"
+           y="414.13193" /></flowRegion><flowPara
+         id="flowPara4255"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:200.99999905%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Light';text-align:justify;text-anchor:start">Nociones básicas del sistema operativo</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:200.99999905%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Light';text-align:justify;text-anchor:start"
+         id="flowPara4263">Manejo de la consola</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:200.99999905%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Light';text-align:justify;text-anchor:start"
+         id="flowPara4265">Herramientas libres para las Artes Electrónicas</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:200.99999905%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Light';text-align:justify;text-anchor:start"
+         id="flowPara4267">Raspberry Pi para audio, video, mapping y electrónica</flowPara><flowPara
+         id="flowPara4257"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:200.99999905%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Light';text-align:justify;text-anchor:start" /><flowPara
+         id="flowPara4259"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:200.99999905%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Light';text-align:justify;text-anchor:start" /><flowPara
+         id="flowPara4261"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:200.99999905%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Light';text-align:justify;text-anchor:start" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4345"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1000%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(0,452.36216)"><flowRegion
+         id="flowRegion4347"><rect
+           id="rect4349"
+           width="480"
+           height="172.85715"
+           x="0"
+           y="397.14285" /></flowRegion><flowPara
+         id="flowPara4351">REQUISITOS: ASDASOIJ ASODIJ ASIDASD</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4353"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1000%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(0,452.36216)"><flowRegion
+         id="flowRegion4355"><rect
+           id="rect4357"
+           width="557.14288"
+           height="170.71428"
+           x="32.857143"
+           y="411.42856" /></flowRegion><flowPara
+         id="flowPara4359">ADASDASDASFGDFGDFGDFGFDG</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4379"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1000%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(0,452.36216)"><flowRegion
+         id="flowRegion4381"><rect
+           id="rect4383"
+           width="475.71429"
+           height="175.71428"
+           x="2.1428571"
+           y="382.85715" /></flowRegion><flowPara
+         id="flowPara4385">ASDASDASASDASDASDASD</flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:12.93394947px;line-height:129.99999523%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="46.269966"
+       y="827.93542"
+       id="text4410"
+       sodipodi:linespacing="130%"><tspan
+         sodipodi:role="line"
+         x="46.269966"
+         y="827.93542"
+         id="tspan4418"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.70046139px;line-height:129.99999523%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans'">Requisitos: manejo avanzado de la computadora y conocimiento básico de programación.</tspan></text>
+  </g>
+</svg>
