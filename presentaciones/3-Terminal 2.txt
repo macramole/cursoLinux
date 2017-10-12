@@ -1,0 +1,33 @@
+Principales comandos de consola bash (2)
+****************************************
+
+apt
+apt install
+apt search
+aptitude
+dpkg
+
+grep - operador pipe |
+echo - operador > y >>
+Operador &
+
+Uso de Ctrl-Z
+fg
+bg
+
+ps (ax)
+kill / killall
+du
+df
+find
+
+wget
+
+ssh
+
+ifconfig
+lshw
+parted / fdisk / chdisk
+service
+
+

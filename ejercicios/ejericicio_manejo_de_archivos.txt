@@ -1,0 +1,16 @@
+0. Abrir este archivo desde una terminal y utilizar otra terminal para resolver el ejercicio
+1. Crear un directorio que se llame "en el fondo de la mar"
+2. Adentro del mismo crear 3 directorios más: "un barco", "un palo", "un clavo"
+3. Mover el directorio "un clavo" dentro de "un palo"
+4. Mover el directorio "un palo" dentro de "un barco"
+5. Ir hasta el directorio "un clavo" y crear el archivo "un saco"
+6. Escribir en el archivo "un saco" el texto: "un bolsillo"
+7. Mostrar en pantalla el contenido recién creado de "un saco"
+8. Crear el directorio "una percha"
+9. Mover el archivo "un saco" dentro del directorio "una percha"
+10. Renombrar el archivo "un saco" a "un traje"
+11. Copiar el directorio "en el fondo de la mar" al directorio "una percha"
+12. Ir hasta "una percha" desde el nuevo directorio "en el fondo de la mar"
+13. Eliminar el directorio "en el fondo de la mar" último creado
+14. Escribir "cd .." ¿Qué pasó?
+

@@ -1,0 +1,30 @@
+Sistema de archivos
+************************************
+
+/
+/proc/
+/dev/
+/home/<usuario>
+
+
+Principales comandos de consola bash
+************************************
+
+man
+ls
+cd
+mkdir
+rm
+Uso del <tab>, Ctrl-r
+cp
+mv
+touch
+vi / nano
+more / less / cat / tail / head
+
+sudo
+
+parted / fdisk / chdisk
+dd
+
+
