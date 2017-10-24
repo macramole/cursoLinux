@@ -1,0 +1,31 @@
+Sistema de archivos (3)
+************************************
+
+/etc/
+
+
+Principales comandos de consola bash (3)
+****************************************
+
+Uso de Ctrl-Z
+Operador &
+fg
+bg
+
+kill / killall
+
+du
+df
+
+service
+
+ifconfig
+iwconfig
+
+lshw
+lsusb
+lspci
+
+ssh
+
+
