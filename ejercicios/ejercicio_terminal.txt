@@ -1,0 +1,14 @@
+Hacer todo desde consola
+
+-1. Leer este archivo [more]
+0.  Descargar el ejercicio de http://leandrogarber.info/proyectos/cursoLinux/ejercicio_terminal.zip [wget]
+1.  Descomprimirlo [unzip]
+2.  Ir al directorio home del usuario [cd /home/<usuario>]
+2.  Crear un directorio "ejercicio_terminal" [mkdir]
+3.  Entrar al directorio [cd]
+4.  Crear archivo ejercicio_terminal.py [touch]
+5.  Insertar el texto que se encuentra en datos.dat [cat y operador >>] en el archivo ejercicio_terminal.py
+6.  Dar permiso de ejecución a ejercicio_terminal.py [chmod]
+7.  Ejecutar
+8.  Modificar el archivo ejercicio_terminal.py [nano] para que diga el mensaje correcto
+
