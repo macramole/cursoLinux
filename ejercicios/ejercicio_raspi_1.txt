@@ -1,0 +1,5 @@
+1. Descargar el video cuya URL se encuentra en ejercicio_raspi_1_videoURL.txt
+2. Renombrarlo a testvideo.mp4
+3. Subirlo a la carpeta /home/pi de la raspi
+4. Ejecutarlo con omxplayer
+5. Configurar la raspi para ejecute ese video automaticamente cuando se prenda

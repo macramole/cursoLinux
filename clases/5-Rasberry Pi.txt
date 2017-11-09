@@ -1,0 +1,12 @@
+. Cómo entrar por SSH desde una computadora con Linux
+. FileZilla para actualizar los archivos
+. Opciones en raspi-config
+. Modo gráfico y terminales virtuales
+
+. omxplayer
+. OpenFrameworks y ofxPiMapper
+. Ejecutar un patch de puredata/purrdata desde la consola
+
+. ejecutando un programa en el booteo usando el archivo /etc/rc.local
+
+

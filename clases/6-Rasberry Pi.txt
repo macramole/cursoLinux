@@ -1,0 +1,6 @@
+. vlc (cvlc) para ejecutar un audio desde consola
+. electrónica básica usando GPIO
+
+. ejecutando un programa en el booteo usando el archivo /home/pi/.bashrc (y la diferencia a usar /etc/rc.local)
+
+
